@@ -1,4 +1,4 @@
-FROM tomcat:7
+FROM tomcat:9
 MAINTAINER awerschlan <docker@werschlan.at>
 RUN set -ex \
 	&& rm -rf /usr/local/tomcat/webapps/* \
