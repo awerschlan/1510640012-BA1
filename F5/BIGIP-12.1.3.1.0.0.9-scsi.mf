@@ -1,0 +1,3 @@
+SHA1(BIGIP-12.1.3.1.0.0.9-scsi.ovf)= 52ddd8ba65af13f28d049ac18eab86ab4c59e5a7
+SHA1(BIGIP-12.1.3.1.0.0.9-disk1.vmdk)= 19b3820a15dc75e2ea7eb69e04906640e26f8453
+SHA1(BIGIP-12.1.3.1.0.0.9-disk2.vmdk)= 51d8bc461bd023dce3ada4c989d755d9ccfdf0b9
